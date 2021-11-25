@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd"><preferences EXTERNAL_XML_VERSION="1.0">
+    
+  <root type="user">
+        
+    <map/>
+        
+    <node name="com">
+            
+      <map/>
+            
+      <node name="sun">
+                
+        <map/>
+                
+        <node name="electric">
+                    
+          <map/>
+                    
+          <node name="database">
+                        
+            <map/>
+                        
+            <node name="hierarchy">
+                            
+              <map/>
+                            
+              <node name="Aerius_test_chip_October_2010">
+                                
+                <map/>
+                              
+              </node>
+                            
+              <node name="CMOSedu_Ch31_50n">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="Fig31_53{sch}"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="Ch30_Electric">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="Fig30_72{sch}"/>
+                                    
+                  <entry key="SavedSignalsForCellFig30_72" value="&#9;&#9;vinp {255,0,0}&#9;vinm {255,127,0}&#10;"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="Ch5_MSD">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="_Fig5_5_MSD{sch}"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="Clipboard!!">
+                                
+                <map/>
+                              
+              </node>
+                            
+              <node name="DLL_clock_generator">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="DLL__VDD_noise_simulation{sch}"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="Jared_Thesis">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="sim_CTIA_dc{sch}"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="lab1-xx">
+                                
+                <map>
+                                    
+                  <entry key="CurrentCell" value="and2{lay}"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="noname">
+                                
+                <map/>
+                              
+              </node>
+                            
+              <node name="spiceparts">
+                                
+                <map/>
+                              
+              </node>
+                          
+            </node>
+                        
+            <node name="network">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="variable">
+                            
+              <map/>
+                          
+            </node>
+                      
+          </node>
+                    
+          <node name="plugins">
+                        
+            <map/>
+                        
+            <node name="sctiming">
+                            
+              <map/>
+                          
+            </node>
+                      
+          </node>
+                    
+          <node name="technology">
+                        
+            <map/>
+                        
+            <node name="technologies">
+                            
+              <map>
+                                
+                <entry key="ScaleFORmocmos" value="25.0"/>
+                                
+                <entry key="mocmosAnalog" value="true"/>
+                                
+                <entry key="mocmosNumberOfMetalLayers" value="3"/>
+                              
+              </map>
+                          
+            </node>
+                      
+          </node>
+                    
+          <node name="tool">
+                        
+            <map/>
+                        
+            <node name="compaction">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="drc">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="erc">
+                            
+              <map>
+                                
+                <entry key="MustConnectNWellToPower" value="false"/>
+                              
+              </map>
+                          
+            </node>
+                        
+            <node name="extract">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="generator">
+                            
+              <map/>
+                            
+              <node name="layout">
+                                
+                <map/>
+                              
+              </node>
+                          
+            </node>
+                        
+            <node name="io">
+                            
+              <map>
+                                
+                <entry key="FileTypeGroupDatabase" value="/home/cmos/Software/electricVLSI/Electric_CMOSedu/Ch31_Electric"/>
+                              
+              </map>
+                          
+            </node>
+                        
+            <node name="logicaleffort">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="ncc">
+                            
+              <map>
+                                
+                <entry key="CheckSizes" value="true"/>
+                              
+              </map>
+                          
+            </node>
+                        
+            <node name="placement">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="project">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="routing">
+                            
+              <map/>
+                          
+            </node>
+                        
+            <node name="simulation">
+                            
+              <map>
+                                
+                <entry key="SpiceEngine" value="1"/>
+                                
+                <entry key="SpiceHeaderCardInfo" value="N O N E "/>
+                                
+                <entry key="SpiceLevel" value="3"/>
+                                
+                <entry key="SpiceOutputFormat" value="RawLT"/>
+                                
+                <entry key="SpiceOverwriteOutputFile" value="true"/>
+                                
+                <entry key="SpiceRunChoice" value="1"/>
+                                
+                <entry key="SpiceRunProbe" value="false"/>
+                                
+                <entry key="SpiceRunProgram" value="/usr/bin/ngspice"/>
+                                
+                <entry key="SpiceRunProgramArgs" value="-b -r ${FILENAME_NO_EXT}.raw -o ${FILENAME_NO_EXT}.log ${FILENAME}"/>
+                                
+                <entry key="SpiceTrailerCardInfo" value="/home/cmos/Software/electricVLSI/Electric_CMOSedu/Ch31_Electric/ngspicetrailer.sp"/>
+                              
+              </map>
+                          
+            </node>
+                        
+            <node name="user">
+                            
+              <map>
+                                
+                <entry key="AlignmentToGridVector" value="(20.0 10.0 5.0 1.0 *0.5)"/>
+                                
+                <entry key="ColorBackground" value="-1"/>
+                                
+                <entry key="ColorHighlight" value="-65536"/>
+                                
+                <entry key="ColorPortHighlight" value="-12566464"/>
+                                
+                <entry key="ColorWaveformBackground" value="-1"/>
+                                
+                <entry key="ColorWaveformForeground" value="-16777216"/>
+                                
+                <entry key="DefaultWindowTab" value="1"/>
+                                
+                <entry key="MemorySize" value="512"/>
+                                
+                <entry key="PermSize" value="512"/>
+                                
+                <entry key="RecentlyOpenedLibraries" value="/home/cmos/Software/electricVLSI/Electric_CMOSedu/Ch31_Electric/CMOSedu_Ch31_50n.jelib&#10;/home/cmos/Software/electricVLSI/DLL_clock_generator/DLL_clock_generator.jelib&#10;/C:/Users/jbaker/Documents/Jared_Thesis/Jared_Thesis.jelib&#10;/C:/Users/jbaker/Desktop/electric_MIPS/lab1/lab1-xx.jelib&#10;/C:/Users/jbaker/Desktop/electric/lab1/lab1-xx.jelib&#10;/C:/Users/jbaker/Desktop/Electric_CMOSedu/Ch30_Electric/Ch30_Electric.jelib&#10;/C:/Users/jbaker/Desktop/Ch5_MSD_Electric/Ch5_MSD.jelib&#10;/C:/Users/jbaker/Desktop/DLL_clock_generator.jelib"/>
+                                
+                <entry key="WindowLocation" value="54.0,-8.0 1874.0x1216.0"/>
+                                
+                <entry key="WorkingDirectory" value="/home/cmos/Software/electricVLSI/Electric_CMOSedu/Ch31_Electric"/>
+                              
+              </map>
+                            
+              <node name="dialogs">
+                                
+                <map>
+                                    
+                  <entry key="GetInfoArc-bigger" value="false"/>
+                                    
+                  <entry key="GetInfoNode-bigger" value="false"/>
+                                    
+                  <entry key="GetInfoNode-buttonSelected" value="0"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="menus">
+                                
+                <map>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Cleanup Cell | Cleanup Pins Everywhere" value="F4"/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Modes | Edit | Click/Zoom/Wire" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Modes | Edit | Toggle Pan" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Modes | Edit | Toggle Zoom" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Modes | Movement | Make Grid Larger" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Properties | Object Properties..." value="ctrl I; Q"/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Selection | Add to Waveform in Current Panel" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Selection | Add to Waveform in New Panel" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Edit | Text | Add Text Annotation" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-File | Open Library..." value="ctrl O; O"/>
+                                    
+                  <entry key="MenuKeyBinding-Shortcuts | Window Cycle" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Shortcuts | Wire to M3" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Tools | ERC | Antenna Check" value="A"/>
+                                    
+                  <entry key="MenuKeyBinding-Tools | ERC | Check Wells" value="W"/>
+                                    
+                  <entry key="MenuKeyBinding-Tools | Simulation (Built-in) | Set Signal Undefined at Main Time" value=""/>
+                                    
+                  <entry key="MenuKeyBinding-Tools | Simulation (Spice) | Plot Spice Listing..." value="P"/>
+                                    
+                  <entry key="MenuKeyBinding-Tools | Simulation (Spice) | Write Spice Deck..." value="S"/>
+                                    
+                  <entry key="MenuKeyBinding-Window | 3D Window | 3D View" value="3"/>
+                                    
+                  <entry key="MenuKeyBinding-Window | Adjust Position | Tile Horizontally" value="T"/>
+                                    
+                  <entry key="MenuKeyBinding-Window | Fill Window" value="ctrl 9; ctrl NumPad-9; ctrl shift Page Up; F"/>
+                                    
+                  <entry key="MenuKeyBinding-Window | Special Zoom | Zoom Box" value="Z"/>
+                                    
+                  <entry key="MenuKeyBinding-Window | Zoom Out" value="ctrl 0; ctrl NumPad-0; ctrl shift Insert; X"/>
+                                    
+                  <entry key="MenuKeyBinding-ools | NCC | Schematic and Layout Views of Cell in Current Window" value="L"/>
+                                  
+                </map>
+                              
+              </node>
+                            
+              <node name="ui">
+                                
+                <map/>
+                              
+              </node>
+                          
+            </node>
+                      
+          </node>
+                  
+        </node>
+              
+      </node>
+          
+    </node>
+      
+  </root>
+  
+</preferences>
